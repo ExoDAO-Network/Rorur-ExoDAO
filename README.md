@@ -1,4 +1,4 @@
-Version 2 of the crawler for the Decentralized Search project https://rorur.com
+Version 2 of the crawler for the Decentralized Search project http://www.searchdao.com (a collaboration between Rorur and ExoDAO)
 
 
 Build each of the top level files and run them as systemd daemons ( see example.service file). 
