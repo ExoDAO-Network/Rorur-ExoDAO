@@ -1,4 +1,4 @@
-Version 2 of the crawler for the Decentralized Search project http://www.searchdao.net (a collaboration between Rorur and ExoDAO). Extremely high performance it runs on distributed clusters. With roughly 1000 machines (AWS EC2 T3) it can crawl much of the indexable Internet in roughly 10 days. It is limited to the "classical Web", does not render and does not support pages driven by dynamic microservices (such as Web 2.0) given their personalized variability.
+Version 2 of the crawler for the Decentralized Search project http://www.searchdao.net (a collaboration between Rorur and ExoDAO). Extremely high performance it runs on distributed clusters. With around 1000 well connected machines (AWS EC2 T3) it can crawl much of the indexable Internet in roughly 10 days. It is limited to the "classical Web", does not render and does not support pages driven by dynamic microservices (such as Web 2.0) given their personalized variability.
 
 
 Build each of the top level files and run them as systemd daemons ( see example.service file). 
